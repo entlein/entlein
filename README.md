@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @entlein
-- 👀 k8s, cybersec, ml and all things devops
+- 👀 k8s, eBPF, cybersec, ml and all things devops
 
-- 📫 Please comment or submit PRs if you wish to collaborate
 
 <!---
 entlein/entlein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
