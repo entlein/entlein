@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @entlein
-- 👀 k8s, eBPF, cybersec, ml and all things devops
+- 👀 k8s, eBPF, cybersec, physics, music and all things devops
 
 
 <!---
