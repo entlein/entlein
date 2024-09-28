@@ -7,6 +7,8 @@
 I entirely self-fund my work and rely on soft-money, thus cannot guarantee any future commitments
 
 
+if you d like to meet me: Im at most KubeCons and if you can figure out my real name you ll find me on the CNCF slack 🐣🦢
+
 <!---
 entlein/entlein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
