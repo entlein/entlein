@@ -2,9 +2,9 @@
 - 👀 k8s, eBPF, cybersec, physics, music and all things devops
 
 - Im an entrepreneurial researcher who wants to make our world more cyberresilient. Thus I maintain the kubernetes-stormcenter and create educational tools to lower entrance barriers for true understanding of threats.
-- I also offer master thesis projects
 
-I entirely self-fund my work and rely on soft-money, thus cannot guarantee any future commitments
+
+I entirely self-fund my work, thus cannot guarantee any future commitments but I can guarantee that I m not sponsored by any vendor/country/ideology.
 
 
 if you d like to meet me: Im at most KubeCons and if you can figure out my real name you ll find me on the CNCF slack 🐣🦢
