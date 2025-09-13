@@ -2,7 +2,7 @@
 - 👀 k8s, eBPF, cybersec, physics, music and all things devops
 
 - Im an entrepreneurial researcher who wants to make our world more cyberresilient. Thus I maintain the kubernetes-stormcenter and create educational tools to lower entrance barriers for true understanding of threats.
-- Recently, I create the Software Bill of Behavior Initiative and will be offering a SBoB-aaS as soon as I get around to it 🐝
+- Recently, I created the Software Bill of Behavior Initiative and will be offering a SBoB-aaS as soon as I get around to it 🐝
 
 
 I entirely self-fund my work, thus cannot guarantee any future commitments but I can guarantee that I m not sponsored by any vendor/country/ideology.
